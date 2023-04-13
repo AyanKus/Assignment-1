@@ -161,7 +161,7 @@
 #                     movin = 'left'
 #                     dx, dy = -1, 0
 #                 elif event.key == pygame.K_q:
-#                     running = False
+#                     False
 
 #         snake.move(dx, dy)
 
